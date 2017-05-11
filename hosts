@@ -1,16 +1,10 @@
-## Invasive Adware
-# Block Spotify banner ads
 127.0.0.1     pubads.g.doubleclick.net
 127.0.0.1     securepubads.g.doubleclick.net
-
-# Spotify 1.0.36.124.g1cba1920
 127.0.0.1   video-ad-stats.googlesyndication.com
 127.0.0.1   tpc.googlesyndication.com
 127.0.0.1   pagead2.googlesyndication.com
 127.0.0.1   redirector.gvt1.com
 127.0.0.1   adeventtracker.spotify.com
-
-#Spotify Original list
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 www.googleadservices.com
@@ -23,8 +17,6 @@
 127.0.0.1 www.omaze.com
 127.0.0.1 omaze.com
 127.0.0.1 bounceexchange.com
-
-#Spotify Sniff 5/18/16 added by me
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 pagead.l.doubleclick.net
 127.0.0.1 googlehosted.l.googleusercontent.com
