@@ -8,7 +8,7 @@
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 www.googleadservices.com
-127.0.0.1 open.spotify.com
+#127.0.0.1 open.spotify.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 desktop.spotify.com
 127.0.0.1 googleads.g.doubleclick.net
